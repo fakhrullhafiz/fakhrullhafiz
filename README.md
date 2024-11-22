@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Muhammad Fakhrul Hafiz Bin Mohd Anuar, a 3rd-year Computer Engineering student at Universiti Teknologi PETRONAS (UTP), currently an exchange student at Khalifa University. I’m passionate about embedded systems, digital design, and AI, with hands-on experience in tools like Arduino and FPGA.<br><br>I enjoy working on practical projects, such as my Smart Irrigation System, which integrates sensors, automation, and real-time displays. Starting next semester, I’ll begin a two-semester internship to gain industry experience.<br><br>Feel free to connect on LinkedIn or check out my projects on GitHub (fakhrullhafiz)!
+Hi, I'm Muhammad Fakhrul Hafiz Bin Mohd Anuar, a 3rd-year Computer Engineering student at Universiti Teknologi PETRONAS (UTP), currently an exchange student at Khalifa University, Abu Dhabi, United Arab Emirates. I’m currently enrolled in courses of embedded systems, digital design, and AI, with hands-on experience in tools like Arduino and FPGA.<br><br>I enjoy working on practical projects, such as my Smart Irrigation System, which integrates sensors, automation, and real-time displays. Starting next semester, I’ll begin a two-semester internship to gain industry experience.<br><br>Feel free to connect on LinkedIn or check out my projects on GitHub (fakhrullhafiz)!
 
 
 # 💻 Tech Stack:
